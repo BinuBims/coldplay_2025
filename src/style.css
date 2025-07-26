@@ -9,7 +9,7 @@
         background-color: grey;
         display: block;
         margin: 0 auto;
-        background-image: url("../public/output\ \(3\).jpg");
+        background-image: url("/public/background.jpg");
         background-blend-mode:soft-light;
         background-size:contain;
       }
@@ -43,8 +43,7 @@
       button{
         padding: 2% 0%;
         margin: 2% 0;
-        background-color: #bc6c25;
-        color: #fdfcdc;
+        color: #000000;
       }
 
       h1{
