@@ -1,10 +1,10 @@
 import './style.css'
 import { createClient } from '@supabase/supabase-js';
-
+import ballImage from './../public/ball-modified.png';
 
 document.querySelector('#app').innerHTML = `
 <h1> Cold Play 2025 </h2>
-<img id="ballImage" src="/public/ball-modified.png" style="display:none;" />
+<img id="ballImage" src=${ballImage} style="display:none;" />
  <canvas id="myCanvas" width="520" height="640" style="border:1px solid #000;"></canvas>
  <div id="icons" style="display: none;">
   <i id="cameraIcon" class="fa-solid fa-video fa-2x"></i>
