@@ -1,0 +1,54 @@
+      body{
+        background-color: #16697a;
+      }
+      * {
+        padding: 0;
+        margin: 0;
+      }
+      canvas {
+        background-color: grey;
+        display: block;
+        margin: 0 auto;
+        background-image: url("../public/output\ \(3\).jpg");
+        background-blend-mode:soft-light;
+        background-size:contain;
+      }
+
+      img {
+        border-radius: 50%;
+      }
+
+      #lboarddiv{
+        color:#fdfcdc;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+      }
+
+      #allbuttons{
+        display: flex;
+      }
+
+      li{
+        list-style: none;
+      }
+
+      .leaderBoard{
+        background-color: #f07167;
+        padding: 1%;
+        border-radius: 5px;
+      }
+
+      button{
+        padding: 2% 0%;
+        margin: 2% 0;
+        background-color: #bc6c25;
+        color: #fdfcdc;
+      }
+
+      h1{
+        text-align: center;
+        padding: 1% 0;
+        color: #fdfcdc
+      }
