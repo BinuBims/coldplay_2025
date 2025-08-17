@@ -4,7 +4,7 @@ I built a fun canvas-based game inspired by Coldplay, where players bounce a bal
 
 **Project Link:** [Coldplay Game](https://coldplay.binukandagedon.net/)
 
-![Landing Page](images/coldplay.gif.gif)  
+![Landing Page](public/coldplay.gif.gif)  
 
 ---
 
